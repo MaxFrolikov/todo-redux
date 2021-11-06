@@ -20,7 +20,9 @@
 }
 
 .task-text{
+    width: 320px;
     margin-top: 2px;
+    word-wrap: break-word;
 }
 .task-marks{
     float: right;
